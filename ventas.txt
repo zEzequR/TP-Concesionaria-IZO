@@ -1,0 +1,46 @@
+
+
+Modelo: MERCEDES-BENZ XCLASS, Color: BLANCO
+Anio: 2024
+Pago por Transferencia: 36750.00
+
+Modelo: FORD MAVERICK, Color: AZUL
+Anio: 2021
+Pago por Efectivo: 18000.00
+
+Modelo: FORD MAVERICK, Color: ROJO
+Anio: 2021
+Pago por Efectivo: 36000.00
+
+Modelo: TOYOTA HILUX, Color: BLANCO
+Anio: 2023
+Pago por Transferencia: 31500.00
+
+Modelo: TOYOTA SW4, Color: ROJO
+Anio: 2023
+Pago por Efectivo: 58500.00
+
+Modelo: TOYOTA HILUX, Color: BLANCO
+Anio: 2023
+Pago por Transferencia: 31500.00
+
+Modelo: NISSAN FRONTIER, Color: NEGRO
+Anio: 2024
+Pago por Transferencia: 63000.00
+
+Modelo: MERCEDES-BENZ XCLASS, Color: NEGRO
+Anio: 2024
+Pago por Transferencia: 136500.00
+
+Modelo: VOLKSWAGEN AMAROK, Color: BLANCO
+Anio: 2022
+Pago por Efectivo: 39600.00
+
+Modelo: FORD MAVERICK, Color: ROJO
+Anio: 2021
+Pago por Efectivo: 36000.00
+
+Modelo: FORD MAVERICK, Color: NEGRO
+Anio: 2024
+Pago por Transferencia: 42000.00
+
